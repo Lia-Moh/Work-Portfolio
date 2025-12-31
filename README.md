@@ -10,6 +10,7 @@ A minimalist, high-impact web portfolio designed to showcase visual storytelling
 
 🛠️ Features
 Responsive Grid: Automatically adapts to Mobile, Tablet, and Desktop screens.
+
 Modern Minimalist UI: Designed to keep the focus on your graphics, not the code.
 
 ---
